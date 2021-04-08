@@ -1,0 +1,19 @@
+.footer {
+  width: calc(100% - 48px * 2);
+  font-family: 'Inter', Arial, sans-serif;
+  color: #FFFFFF;
+  background-color: #2A2C2F;
+  text-rendering: optimizeLegibility;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+
+
+@media (max-width: 767px) {
+  .footer {
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}

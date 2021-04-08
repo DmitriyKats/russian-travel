@@ -1,0 +1,28 @@
+.intro {
+  width: calc(100% - 148px * 2);
+  font-family: 'Inter', Arial, sans-serif;
+  color: #FFFFFF;
+  background-color: #2A2C2F;
+  text-rendering: optimizeLegibility;
+  
+}
+
+@media (max-width: 1279px) {
+  .intro {
+    width: calc(100% - 48px * 2);
+    }
+}
+
+@media (max-width: 1023px) {
+  .intro {
+    width: calc(100% - 24px * 2);
+  }
+}
+
+@media (max-width: 767px) {
+  .intro {
+    width: calc(100% - 16px * 2);
+  }
+}
+
+
