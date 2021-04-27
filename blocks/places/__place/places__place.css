@@ -8,7 +8,7 @@
   align-items: flex-start;
   grid-template-areas: 
     "title website"
-    "image paragraph"
+    "image paragraph";
 
   }
 
@@ -32,6 +32,6 @@
     "title"
     "website"
     "image"
-    "paragraph"
+    "paragraph";
   }
 }
