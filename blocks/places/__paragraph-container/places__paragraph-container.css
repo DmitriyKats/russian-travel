@@ -1,0 +1,14 @@
+.places__paragraph-container {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.63;
+  grid-area: paragraph;
+}
+
+
+@media (max-width: 767px) {
+  .places__paragraph-container {
+    padding: 0 16px;
+  }
+}

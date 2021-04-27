@@ -14,7 +14,7 @@ line-height: 1.63;
   }
 }
 
-@media (max-width: 380px) {
+@media (max-width: 425px) {
   .intro__text {
     max-width: 288px;
   }
