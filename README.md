@@ -13,3 +13,5 @@
 
 На данный момент проект проходит стадию code-review, имеются недоработки.
 
+*Адрес страницы* - https://dmitriykats.github.io/russian-travel/
+
