@@ -1,9 +1,9 @@
 .cover {
   display: flex;
+  justify-content: center;
   width: calc(100% - 48px * 2);
+  max-width: 1184px;
   min-height: 740px;
-  
-     
 }
 
 @media (max-width: 1279px) {
@@ -19,9 +19,11 @@
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 425px) {
   .cover {
-    min-height: 320px;
+    min-height: 200px;
+    
+    
     
   }
 }
